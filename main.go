@@ -21,9 +21,8 @@ type apiConfig struct {
 	DB *database.Queries
 }
 
-func useless(){
+func useless() {
  //Empty
-
 }
 
 //go:embed static/*
